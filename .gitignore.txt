@@ -1,0 +1,26 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local config file
+local.properties
+
+# IntelliJ files
+.idea/
+.settings/
+*.iml
+out/
+proguard_logs/
+build/
+.gradle/
+Thumbs.db
