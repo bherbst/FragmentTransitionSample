@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:gravity="center"
-    android:padding="@dimen/kitten_preview_padding">
+    android:padding="@dimen/kitten_preview_padding"
+    android:clipToPadding="false">
 
     <ImageView
         android:id="@+id/image"
